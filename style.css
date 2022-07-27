@@ -1,18 +1,18 @@
-@media screen and (max-width:576px) {
-    .carousel-item img {
-        height: 80vh;
-        object-fit: cover;
-    }
+ @media screen and (max-width:576px) {
+     .carousel-item img {
+         height: 80vh;
+         object-fit: cover;
+     }
 
-}
+ }
 
-.carousel-item::before {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgba(0, 0, 0, 0.63);
-}
+ .carousel-item::before {
+     content: "";
+     display: block;
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     background: rgba(0, 0, 0, 0.63);
+ }
