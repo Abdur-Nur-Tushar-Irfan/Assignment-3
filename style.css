@@ -8,3 +8,8 @@
     right: 0;
     background: rgba(0, 0, 0, 0.63);
 }
+
+.carousel-caption {
+    transform: translateY(-50%);
+    top: 50%;
+}
